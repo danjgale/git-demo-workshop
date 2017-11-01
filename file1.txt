@@ -7,3 +7,6 @@ for (i in variable) {
 add = function(x, y){
   return x + y
 }
+
+
+x = 10
