@@ -1,0 +1,9 @@
+// sample pseudocode
+
+for (i in variable) {
+  do something...
+}
+
+add = function(x, y){
+  return x + y
+}
